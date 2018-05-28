@@ -1,6 +1,8 @@
 # shadowsocks-virtualbox
 将shadowsock打包进虚拟机，开箱即用，免去部署烦恼。
 
+内置ss免费节点账号。
+
 # 安装
 1. 安装VirtualBox
 2. 在本项目Release中，下载ss.ova。
