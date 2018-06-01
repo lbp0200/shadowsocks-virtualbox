@@ -5,7 +5,7 @@
 
 # 安装
 1. 安装VirtualBox
-2. 在本项目Release中，下载ss.ova。
+2. 在本项目Release中，下载ss.ova。百度盘镜像链接: https://pan.baidu.com/s/1MgX2xx2I0Y4bSuYC6uACUw 密码: yjm4
 3. 打开VirtualBox，导入ss.ova，启动导入的虚拟机。
 4. 打开浏览器，如Firefox，设置网络代理为`socks5 127.0.0.1:1080`或`HTTP 127.0.0.1:8123`，开始科学上网。
 
