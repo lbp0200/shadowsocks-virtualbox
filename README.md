@@ -23,9 +23,9 @@
 
 有条件还是推荐自己搭建，根据本人经历，年付的VPS一般比较坑，可能是人满为患的原因。`ping`值不是很重要，不丢包就好。
 
-推荐新手用[搬瓦工](https://polr.liuboping.com/9zuU9)
+推荐新手用[搬瓦工](https://bwh1.net/aff.php?aff=12296)
 
-进阶使用[Vultr](https://polr.liuboping.com/PrgTf)
+进阶使用[Vultr](https://www.vultr.com/?ref=6879156)
 
 # 遇到问题，如何解决？
 重启虚拟机能解决大部分问题
