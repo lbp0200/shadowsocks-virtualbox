@@ -1,4 +1,6 @@
 # shadowsocks-virtualbox
+已经不可用
+
 将shadowsock打包进虚拟机，开箱即用，免去部署烦恼。
 
 内置ss免费节点账号。
